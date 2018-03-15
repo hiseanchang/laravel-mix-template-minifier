@@ -1,0 +1,25 @@
+{
+  "name": "laravel-mix-template-minifier",
+  "version": "1.0.0",
+  "description": "Minify template files with Laravel Mix",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Chang <siaoca@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "laravel-mix": "^1.0",
+    "html-minifier": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiseanchang/laravel-mix-template-minifier"
+  },
+  "keywords": [
+    "laravel",
+    "mix",
+    "blade",
+    "minify"
+  ]
+}
